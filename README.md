@@ -1,5 +1,7 @@
 # Project-Euler-Challenges
+
 My answers to the challenges presented on the Project Euler website, completed in Python 3.
+
 https://projecteuler.net/archives
 
 ## Getting Started
